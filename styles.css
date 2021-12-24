@@ -1,0 +1,34 @@
+body {
+  background-color: #eaf6f6;
+}
+hr {
+  border-top-color: grey;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1:hover {
+  color: #66bfbf;
+}
+
+h3 {
+  color: #66bfbf;
+}
+
+.green {
+  background-color: green;
+}
+
+.circular {
+  border-radius: 150px;
+}
+
+.circular:hover {
+  background-color: black;
+  padding: 5px;
+}
+#id1:hover {
+  color: gold;
+}
